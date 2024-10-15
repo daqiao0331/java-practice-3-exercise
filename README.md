@@ -13,6 +13,13 @@
 定义了一个方法 `playSound`,并定义`animal` 变量，类型是`Animal`，用来调用`Animal`类中的`cry()`和`getAnimalName`，即显示动物名字和动作，模拟场景。
 ## `Application`类
 此类是主类，是程序的入口，此类新建了 `Dog` 类的一个新实例,和`Cat` 类的一个新实例，调用 `Simulator` 对象的 `playSound` 方法，并将新创建的实例作为参数传递
+# 输出示例
+wang
 
+Dog is crying.
+
+miao
+
+Cat is crying.
 # 注意事项
 使用javac语句进行编译，使用java语句运行。
